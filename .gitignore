@@ -160,3 +160,6 @@ cython_debug/
 #.idea/
 
 impact_factor.ipynb
+
+#to ignore data files
+sample-data
