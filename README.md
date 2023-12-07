@@ -38,5 +38,3 @@ Contributions to this project are welcome. Please fork the repository and submit
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ---
-
-This README provides a general overview of the project, installation and usage instructions, information about the data, and contribution guidelines. You can adjust the content as needed based on the specific details and objectives of your project.
